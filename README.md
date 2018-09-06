@@ -11,7 +11,9 @@ This python script is designed to help manage a large scale AP deployment and id
   - sender_email
   - receiver_email
   - smtp_host
-  
-2.) Update the creds.py file
 
-3.) Run ap_ch_cisco_bugs-mp.py
+2.) Update creds.py with required credentials
+
+3.) Update the creds.py file
+
+4.) Run ap_ch_cisco_bugs-mp.py
