@@ -17,4 +17,4 @@ This python script is designed to help manage a large scale AP deployment and id
 
 3.) Update the creds.py file
 
-4.) Run ap_ch_cisco_bugs-mp.py
+4.) Run ap_chk_cisco_bugs-mp.py
