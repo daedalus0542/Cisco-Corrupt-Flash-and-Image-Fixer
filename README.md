@@ -1,6 +1,7 @@
 # Cisco AP Corrupt Flash and Image Fixer
 
-Brief
+# Brief
+
 This python script is designed to help manage a large scale AP deployment and identify the flash corruption issues with Cisco APs.The script is built to run using python 3.6.
 
 # User Guide
