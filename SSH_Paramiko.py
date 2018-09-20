@@ -60,6 +60,7 @@ class SSH_Paramiko(object):
         ssh_out = ssh_out.replace("\\x08", "")
         ssh_out = ssh_out.replace("b\'", "")
         ssh_out = ssh_out.replace("\\r", "")
+        ssh_out = ssh_out.replace("         ", "")
 
         return ssh_out
 
